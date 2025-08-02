@@ -27,12 +27,6 @@ Currently working remotely from Germany for a Danish company. My work is practic
 - **🕹️ Raycaster Engine** – A 2.5D raycasting engine built in C with SDL2, featuring textured walls, player movement, and custom rendering logic — inspired by classic Wolfenstein-style engines
 - **📊 DevRealm** – Local-first knowledge hub for developers with search, Markdown preview, and tagging  
 
-## 📌 Currently
-
-- Open to **full-time** roles starting now  
-- Part time work
-- Always up for solving a tough bug or shipping something useful  
-
 ## 🧠 Tech I Like
 
 `C#` `C++` `Java` `MSSQL` `SQLite`  
