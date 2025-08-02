@@ -30,7 +30,7 @@ Currently working remotely from Germany for a Danish company, while finishing up
 ## 📌 Currently
 
 - Open to **full-time** roles starting now  
-- Focused on finishing a few key projects (freelance, school, Steam product)  
+- Part time work
 - Always up for solving a tough bug or shipping something useful  
 
 ## 🧠 Tech I Like
