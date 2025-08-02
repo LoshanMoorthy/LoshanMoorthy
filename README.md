@@ -12,7 +12,7 @@ Currently working remotely from Germany for a Danish company. My work is practic
   - Built secure authentication + rate-limited APIs used in production
 
 - 🧠 **Low-Level & Native Apps**
-  - C++ projects with DirectX, ImGui, raw sockets (no external FTP libs)
+  - C++ projects with DirectX, ImGui, raw sockets
   - Hooking (D3D11), memory management, reverse engineering tools
   - Built an experimental Lossless Scaling-style app with GUI and config support
 
