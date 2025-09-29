@@ -2,8 +2,6 @@
 
 I'm a hands-on software developer who enjoys building reliable systems that just work — from secure APIs used by enterprise clients to native C++ applications with raw socket logic.
 
-Currently working remotely from Germany for a Danish company. My work is practical, performance-minded, and always evolving.
-
 ## 💻 What I Work On
 
 - 🛠️ **Backend Development**
