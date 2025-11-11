@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Loshan Sundaramoorthy
 
-I'm a hands-on software developer who enjoys building reliable systems that just work — from secure APIs used by enterprise clients to native C++ applications with raw socket logic.
+I'm a hands-on software developer who enjoys building reliable systems that just work - from secure APIs used by enterprise clients to native C++ applications with raw socket logic.
 
 ## 💻 What I Work On
 
