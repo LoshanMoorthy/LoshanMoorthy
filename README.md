@@ -19,15 +19,19 @@ I'm a hands-on software developer who enjoys building reliable systems that just
   - SQLite apps with MAUI frontends
   - Internal productivity tools for teams and small businesses
 
-## 🚀 Featured Projects
+### Web & Frontend
 
-- **🔌 Evolution Webservice** – Secure C# API for data, including a clean admin interface and flexible search logic  
-- **🕹️ Raycaster Engine** – A 2.5D raycasting engine built in C with SDL2, featuring textured walls, player movement, and custom rendering logic — inspired by classic Wolfenstein-style engines
-- **📊 DevRealm** – Local-first knowledge hub for developers with search, Markdown preview, and tagging  
+- **DevRealm** - A local-first knowledge hub for developers with a React + Chakra UI frontend, live Markdown preview, tagging, and search. Backend is a C# API with SQLite.
+- **CronFleet** - A task orchestration platform built with Node.js (Fastify) and PostgreSQL. REST API for creating and running jobs, plus a web UI for monitoring runs across tenants.
+
+### Systems & Low-Level
+
+- **Evolution Webservice** - Secure C# API for tele/data lookups with a clean admin interface, authentication, rate limiting and flexible search logic.
+- **Raycaster Engine** - 2.5D raycasting engine in C/SDL2 with textured walls, movement, and custom rendering - inspired by classic Wolfenstein-style engines.
 
 ## 🧠 Tech I Like
 
-`C#` `C++` `Java` `MSSQL` `SQLite`  
+`C#` `C++` `Java` `MSSQL` `SQLite` `PHP` `JavaScript`
 `ASP.NET` `ImGui` `MinHook` `OpenGL`  
 `Socket programming` `Data pipelines` `Windows internals`
 
