@@ -10,14 +10,13 @@ I'm a hands-on software developer who enjoys building reliable systems that just
   - Built secure authentication + rate-limited APIs used in production
 
 - 🧠 **Low-Level & Native Apps**
-  - C++ projects with DirectX, ImGui, raw sockets
-  - Hooking (D3D11), memory management, reverse engineering tools
-  - Built an experimental Lossless Scaling-style app with GUI and config support
+  - C++ projects using ImGui, raw sockets, and Raylib  
+  - Built a work-in-progress **Game Boy emulator** in C++ to explore CPU opcodes, memory mapping, and basic PPU rendering 
 
 - 🧪 **Experiments & Tools**
-  - Markdown IDE plugins, interpreters, 2.5D raycasters (SDL2)
-  - SQLite apps with MAUI frontends
-  - Internal productivity tools for teams and small businesses
+  - Markdown IDE prototypes, interpreters, and 2.5D raycasters (SDL2)  
+  - SQLite-powered desktop apps (MAUI)  
+  - Internal productivity tools for teams and small businesses  
 
 ### Web & Frontend
 
